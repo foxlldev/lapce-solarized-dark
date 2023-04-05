@@ -5,3 +5,4 @@ version = "0.1.1"
 author = "foxlldev"
 repository = "https://github.com/foxlldev/lapce-solarized-dark"
 color-themes = ["solarized-dark.toml"]
+icon = "logo.png"
