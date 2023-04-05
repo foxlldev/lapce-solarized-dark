@@ -1,2 +1,2 @@
-# atom-one
-Atom One Theme
+# lapce-solarized-dark
+Solarized Dark theme for Lapce
