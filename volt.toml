@@ -4,4 +4,4 @@ description = "Solarized Dark theme for Lapce editor"
 version = "0.1.1"
 author = "foxlldev"
 repository = "https://github.com/foxlldev/lapce-solarized-dark"
-themes = ["solarized-dark.toml"]
+color-themes = ["solarized-dark.toml"]
