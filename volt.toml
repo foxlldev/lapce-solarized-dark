@@ -1,8 +1,8 @@
-name = "solarized-dark"
-display-name = "Solarized Dark"
-description = "Solarized Dark theme for Lapce editor"
+name = "solarized"
+display-name = "Solarized Theme"
+description = "Solarized theme for Lapce editor"
 version = "0.1.1"
 author = "foxlldev"
 repository = "https://github.com/foxlldev/lapce-solarized-dark"
-color-themes = ["solarized-dark.toml"]
+color-themes = ["solarized-dark.toml", "solarized-light.toml"]
 icon = "logo.png"
